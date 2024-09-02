@@ -1,4 +1,5 @@
-# Título del Proyecto Compra-Venta ropa importada nueva y usada
+# Título del Proyecto Compra-Venta ropa importada nueva y usada 
+# Nombre de la APP: ECOROP
 # Industria: Textil
 # Descripción del Proyecto: Diseñar una aplicación de compra-venta de ropa importada nueva y usada
 # que este al alcance de todo tipo de público a nivel económico y que atraiga compradores que 

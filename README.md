@@ -9,6 +9,6 @@
 # Yadira Avila https://www.linkedin.com/in/yadiraavilauxui/ (Rol, Diseño UX/UI)
 # Simon Barrios https://www.linkedin.com/in/simon-barrios/ (Rol, Desarrollo y automatizacion)
 # Juan Carlos Ulacia https://www.linkedin.com/in/juanulacia (Rol, UX Researcher)
-# Tecnologias usadas en el proyecto: Figma, Bubble, Webflow, Zapier
+# Tecnologias usadas en el proyecto: Figma, Bubble,
 
 

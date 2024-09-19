@@ -9,6 +9,6 @@
 # Juan Carlos Ulacia https://www.linkedin.com/in/juanulacia (Rol, UX Researcher)
 # Tecnologias usadas en el proyecto: Figma, Bubble (el desarrollador se bajo del proyecto y no se pudo realizar)
 
-# Enlace al prototipo del proyecto https://www.figma.com/proto/ycRzlSuLQscckcRUDj6tZX/App-EcoRop?node-id=394-6103&starting-point-node-id=394%3A6103
+# Enlace al prototipo del proyecto en Figma es https://www.figma.com/proto/ycRzlSuLQscckcRUDj6tZX/App-EcoRop?node-id=394-6103&starting-point-node-id=394%3A6103
 
 
